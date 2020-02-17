@@ -1,0 +1,11 @@
+name = "SEALinearAlgebra"
+uuid = "4b810287-a46f-4592-8965-77fd671f1d76"
+authors = ["Sebastian Ament ...@..."]
+version = "0.1.0"
+
+[deps]
+InfiniteArrays = "4858937d-0d70-526a-a4dd-2d5cb5dd786c"
+LazyArrays = "5078a376-72f3-5289-bfd5-ec5146d43c02"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+ToeplitzMatrices = "c751599d-da0a-543b-9d20-d0a503d91d24"
